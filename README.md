@@ -77,8 +77,3 @@ There are some mandatory constraints you have to attend:
 }
 ```
 
-## How to deliver the test
-
-To submit your solution to the proposed test, send us an email to [dev@marketgoo.com](mailto:dev@marketgoo.com) with a link to your repository with your solution. Use that email to tell us anything you want about your solution (proposed solution, reasoning...).
-
-You can also use that same email ([dev@marketgoo.com](mailto:dev@marketgoo.com)) for any doubt or problem you may have, do not hesitate to ask whatever you want.
