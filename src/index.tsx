@@ -1,6 +1,5 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
-import socketIOClient from "socket.io-client";
+import socketIOClient from 'socket.io-client';
 const ENDPOINT = 'http://localhost:3000';
 import './index.css';
 
